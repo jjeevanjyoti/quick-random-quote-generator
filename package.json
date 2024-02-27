@@ -1,6 +1,6 @@
 {
   "name": "quick-random-quote-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,8 @@
   "dependencies": {
     "random-quote": "^0.0.1"
   },
-"repository": {
-  "type": "git",
-  "url": "git://github.com/jjeevanjyoti/quick-random-quote-generator.git"
-},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jjeevanjyoti/quick-random-quote-generator.git"
+  }
 }
